@@ -1,11 +1,10 @@
 # data-analyst-portfolio
 My Data Analytics Portfolio | Python, SQL, Tableau &amp; Business Intelligence
 
-# Data Analyst Portfolio 
+
 
 **Laura Rodríguez**  
 Junior Data Analyst | Python | SQL | Tableau | Data Visualization
-
 
 
 ## About Me
