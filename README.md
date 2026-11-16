@@ -107,9 +107,8 @@ Development of an interactive web application to explore vehicle data and visual
 
 **GitHub:** https://github.com/Laurac21675/data-analyst-portfolio/edit/main/README.md
 
-**LinkedIn:** www.linkedin.com/in/
-laura-rodriguez-amaya-85b257194
-Nombre de la URL personalizada
+**LinkedIn:** www.linkedin.com/in/laura-rodriguez-amaya-85b257194
+
 
 
 **Email:** rodriguezlauraa@outlook.com
