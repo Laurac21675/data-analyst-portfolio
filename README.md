@@ -1,9 +1,7 @@
-# YouTube Trending Categories – Tableau Dashboard
+# Marketing Analytics – Business Performance
 
-Explore trending YouTube video categories and patterns over time using an interactive Tableau dashboard.
+Analyze customer visits, purchases, and marketing expenses to understand customer acquisition cost (CAC), customer lifetime value (LTV), and marketing return on investment (ROMI).
 
-**Tools:** Tableau Public, data visualization
+**Tools:** Python, Pandas, Jupyter Notebook
 
-**Dashboard:** https://public.tableau.com/views/ProyectoAnalisisdetendenciasenYoutube/Dashboard1?:language=en-US&publish=yes
-
-> Add the dataset, project brief, and screenshots if available.
+> Project files and verified findings will be added here.
